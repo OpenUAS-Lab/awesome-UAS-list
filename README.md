@@ -92,6 +92,8 @@ A curated list of AI, machine learning, computer vision, and autonomy resources 
 - [Paparazzi](http://wiki.paparazziuav.org/wiki/Main_Page)
 - [QGroundControl](http://qgroundcontrol.com/)
 ### BlackBox
+- [Easyquadtune](https://easyquadtune.vercel.app) - Betaflight blackbox log analysis: filter changes from the log's noise peaks, PID changes from the measured step response, emitted as a CLI diff. First log free.
+
 ---
 ## Tools & Ecosystem
 ### Learning Resources
